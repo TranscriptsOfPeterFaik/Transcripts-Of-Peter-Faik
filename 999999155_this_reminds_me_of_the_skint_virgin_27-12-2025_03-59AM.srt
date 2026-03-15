@@ -1,0 +1,19 @@
+1
+00:00:00,480 --> 00:00:03,279
+Look at this cat. It's waiting for its
+
+2
+00:00:03,280 --> 00:00:06,399
+next copycat statement.
+
+3
+00:00:06,400 --> 00:00:09,839
+Look at it. It's made to copy. No mind
+
+4
+00:00:09,840 --> 00:00:14,159
+of its own. No substance.
+
+5
+00:00:14,160 --> 00:00:20,240
+Just a copycat. Sucks.
